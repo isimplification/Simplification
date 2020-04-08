@@ -14,7 +14,7 @@ github_repo: "Simplification"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://simplification.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://covid19.simplification.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -55,7 +55,7 @@ show_image: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: 
+google_analytics: UA-58713696-1
 
 exclude:
   - docker-compose.yml
