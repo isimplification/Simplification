@@ -7,10 +7,10 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Simplification.io
-description: A Data Science and Machine Learning Company
+description: Covid-19 Visualization and Modelling for Kuwait and GCC with overview about the World 
 github_username: isimplification
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "Simplification"
+github_repo: "covid19.simplification.io"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
